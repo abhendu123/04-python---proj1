@@ -1,0 +1,6 @@
+[2025-Aug-01-22:25:17] ✓ ETL Job Started
+[2025-Aug-01-22:25:17] ✓ Extract phase Started
+[2025-Aug-01-22:27:32] ✓ ETL Job Started
+[2025-Aug-01-22:27:32] ✓ Extract phase Started
+[2025-Aug-01-22:27:32] ✓ Extract phase Ended
+[2025-Aug-01-22:27:32]  -------------------------
